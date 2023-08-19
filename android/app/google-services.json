@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461405600632",
+    "project_id": "together-4dc98",
+    "storage_bucket": "together-4dc98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461405600632:android:306abf00819bc44650668d",
+        "android_client_info": {
+          "package_name": "com.levi.together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461405600632-rsgtjqb54it6s0m8ti288d5mvv6q30kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7Fh50rOdQCZeSlEvDulIxEBTIgyf6sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461405600632-rsgtjqb54it6s0m8ti288d5mvv6q30kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
